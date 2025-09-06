@@ -154,10 +154,6 @@ const largest = Math.max(...numbers);
 // console.log(...numbers);
 // console.log(largest);
 
-<<<<<<< HEAD
-
-=======
->>>>>>> 957a1212da6448fc769d98fb22129602e0ab6c1a
 const numbers2 = [...numbers];
 numbers.push(55);
 numbers2.push(7777);
