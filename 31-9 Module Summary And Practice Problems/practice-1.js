@@ -17,6 +17,7 @@ Output:
 50
 */
 
+
 //(with multiple statements in the body)
 //If you need more than one line of code inside the function, you use curly braces '{}' and explicitly write 'return':
 /*
@@ -44,6 +45,7 @@ I love to eat biriyani.`;
 
 console.log(sentence);
 /* 
+
 Output:
 I am a web developer.
 I love to code.
